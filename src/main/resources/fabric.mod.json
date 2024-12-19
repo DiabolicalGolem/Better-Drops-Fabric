@@ -10,9 +10,9 @@
 	],
 	"contact": {
 		"homepage": "https://diabolicalgolem.com/",
-		"sources": "https://github.com/DiabolicalGolem/fabric-better-drops"
+		"sources": "https://github.com/DiabolicalGolem/Better-Drops-Fabric"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/betterdrops/icon.png",
 	"environment": "*",
 	"entrypoints": {

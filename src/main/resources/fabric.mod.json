@@ -23,7 +23,7 @@
 			"net.betterdrops.BetterDropsDataGenerator"
 		],
 		"cleint": [
-			"net.bettermods.BetterDropsClient"
+			"net.betterdrops.BetterDropsClient"
 		]
 	},
 	"mixins": [

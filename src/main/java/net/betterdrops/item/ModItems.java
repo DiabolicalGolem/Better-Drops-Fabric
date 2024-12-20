@@ -37,10 +37,14 @@ public class ModItems {
             .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "cuisses_de_grenouilles")))));
     public static final Item DOLPHIN_FIN = registerItem("dolphin_fin", new Item(new Item.Settings()
             .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "dolphin_fin")))));
+    public static final Item DOLPHIN_STEW = registerItem("dolphin_stew", new Item(new Item.Settings()
+            .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "dolphin_stew")))));
     public static final Item ENDER_CARAPACE = registerItem("ender_carapace", new Item(new Item.Settings()
             .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "ender_carapace")))));
     public static final Item ENDER_STEW = registerItem("ender_stew", new Item(new Item.Settings()
             .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "ender_stew")))));
+    public static final Item FELINE_STEW = registerItem("feline_stew", new Item(new Item.Settings()
+            .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "feline_stew")))));
     public static final Item FOX_TAIL = registerItem("fox_tail", new Item(new Item.Settings()
             .registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(BetterDrops.MOD_ID, "fox_tail")))));
     public static final Item FOX_TAIL_STEW = registerItem("fox_tail_stew", new Item(new Item.Settings()

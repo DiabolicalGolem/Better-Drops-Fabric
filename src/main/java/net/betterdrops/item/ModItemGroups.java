@@ -28,7 +28,9 @@ public class ModItemGroups {
                         entries.add(ModItems.COOKED_CAMEL);
                         entries.add(ModItems.RAW_FELINE);
                         entries.add(ModItems.COOKED_FELINE);
+                        entries.add(ModItems.FELINE_STEW);
                         entries.add(ModItems.DOLPHIN_FIN);
+                        entries.add(ModItems.DOLPHIN_STEW);
                         entries.add(ModItems.ENDER_CARAPACE);
                         entries.add(ModItems.ENDER_STEW);
                         entries.add(ModItems.FOX_TAIL);

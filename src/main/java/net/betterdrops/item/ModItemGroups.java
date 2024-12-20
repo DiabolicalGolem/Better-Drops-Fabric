@@ -38,6 +38,7 @@ public class ModItemGroups {
                         entries.add(ModItems.FROG_LEGS);
                         entries.add(ModItems.CUISSES_DE_GRENOUILLES);
                         entries.add(ModItems.CHEVON);
+                        entries.add(ModItems.COOKED_CHEVON);
                         entries.add(ModItems.CHEVON_STEW);
                         entries.add(ModItems.RAW_PIGLIN);
                         entries.add(ModItems.COOKED_PIGLIN);

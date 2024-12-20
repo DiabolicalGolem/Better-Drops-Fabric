@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "betterdrops:raw_feline"
-    },
-    {
-      "item": "minecraft:bowl"
-    }
+    "betterdrops:raw_feline",
+    "minecraft:bowl"
   ],
   "result": {
     "count": 1,

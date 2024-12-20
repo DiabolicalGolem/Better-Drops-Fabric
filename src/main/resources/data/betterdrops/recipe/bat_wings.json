@@ -1,10 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "building",
+  "category": "misc",
   "key": {
-    "#": {
-      "item": "betterdrops:bat_wings"
-    }
+    "#": "betterdrops:bat_wings"
   },
   "pattern": [
     "##",

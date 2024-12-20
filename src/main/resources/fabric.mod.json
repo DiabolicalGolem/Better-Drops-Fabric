@@ -3,17 +3,17 @@
 	"id": "betterdrops",
 	"version": "${version}",
 	"name": "Better Drops",
-	"description": "Adding drops to the droppless.",
+	"description": "Adding drops to the dropless.",
 	"authors": [
 		"DiabolicalGolem",
 		"Jamkjssn"
 	],
 	"contact": {
-		"homepage": "https://diabolicalgolem.com/",
+		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/DiabolicalGolem/Better-Drops-Fabric"
 	},
 	"license": "MIT",
-	"icon": "assets/betterdrops/icon.png",
+	"icon": "assets/better_drops/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -22,7 +22,7 @@
 		"fabric-datagen": [
 			"net.betterdrops.BetterDropsDataGenerator"
 		],
-		"cleint": [
+		"client": [
 			"net.betterdrops.BetterDropsClient"
 		]
 	},

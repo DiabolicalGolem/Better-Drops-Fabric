@@ -11,7 +11,7 @@ This is the "Better Drops" Fabric Mod. The author was tired of seeing so many mo
 
 Because this is in a very Alpha stage, there is currently no easy way to install it. Until the mod enters its Beta, you will have to do the heavy lifting in installing the mod: the author will not make a .jar file.
 
-It is recommended to install Appleskin along side.
+It is recommended to install Appleskin mod along side.
 
 ---
 

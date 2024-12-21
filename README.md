@@ -13,6 +13,8 @@ Because this is in a very Alpha stage, there is currently no easy way to install
 
 It is recommended to install Appleskin along side.
 
+---
+
 ## Mob Drops Included:
 
 - Allays
@@ -33,3 +35,5 @@ It is recommended to install Appleskin along side.
 - Tadpoles
 - Vexes
 - Villagers
+
+## [Wiki]()

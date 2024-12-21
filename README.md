@@ -36,4 +36,6 @@ It is recommended to install Appleskin along side.
 - Vexes
 - Villagers
 
-## [Wiki]()
+## Wiki
+
+Here is a link to this mod's [wiki](https://github.com/DiabolicalGolem/Better-Drops-Fabric/wiki)!

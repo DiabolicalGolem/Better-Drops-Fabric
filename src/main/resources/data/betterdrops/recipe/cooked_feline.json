@@ -3,7 +3,9 @@
   "category": "food",
   "cookingtime": 200,
   "experience": 0.2,
-  "ingredient": "betterdrops:raw_feline",
+  "ingredient": {
+    "item": "betterdrops:raw_feline"
+  },
   "result": {
     "id": "betterdrops:cooked_feline"
   }

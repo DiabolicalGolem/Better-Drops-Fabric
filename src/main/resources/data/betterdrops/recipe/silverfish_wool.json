@@ -2,9 +2,15 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "betterdrops:silverfish_wool",
-    "betterdrops:silverfish_wool",
-    "betterdrops:silverfish_wool"
+    {
+      "item": "betterdrops:silverfish_wool"
+    },
+    {
+      "item": "betterdrops:silverfish_wool"
+    },
+    {
+      "item": "betterdrops:silverfish_wool"
+    }
   ],
   "result": {
     "count": 1,

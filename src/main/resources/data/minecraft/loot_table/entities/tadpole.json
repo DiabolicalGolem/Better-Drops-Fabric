@@ -2,30 +2,21 @@
   "type": "minecraft:entity",
   "pools": [
     {
-      "rolls": 1,
+      "bonus_rolls": 0,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:stick",
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": 1
-            },
-            {
-              "function": "minecraft:set_custom_model_data",
-              "value": 29
-            },
-            {
-              "function": "minecraft:set_name",
-              "name": {
-                "text": "Tadpole",
-                "italic": false
-              }
+              "add": false,
+              "count": 1,
+              "function": "minecraft:set_count"
             }
-          ]
+          ],
+          "name": "betterdrops:tadpole"
         }
-      ]
+      ],
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/tadpole"

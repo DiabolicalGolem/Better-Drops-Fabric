@@ -2,8 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "betterdrops:incorporeal_meat",
-    "minecraft:bowl"
+    {
+      "item": "betterdrops:incorporeal_meat"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
   ],
   "result": {
     "count": 1,

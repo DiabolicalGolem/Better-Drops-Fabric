@@ -1,9 +1,11 @@
 {
   "type": "minecraft:smelting",
   "category": "food",
-  "cookingtime": 150,
+  "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": "betterdrops:frog_legs",
+  "ingredient": {
+    "item": "betterdrops:frog_legs"
+  },
   "result": {
     "id": "betterdrops:cuisses_de_grenouilles"
   }

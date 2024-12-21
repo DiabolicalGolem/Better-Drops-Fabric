@@ -2,8 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "betterdrops:fox_tail",
-    "minecraft:bowl"
+    {
+      "item": "betterdrops:fox_tail"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
   ],
   "result": {
     "count": 1,

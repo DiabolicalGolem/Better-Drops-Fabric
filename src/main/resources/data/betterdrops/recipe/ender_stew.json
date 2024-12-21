@@ -3,7 +3,9 @@
   "category": "food",
   "cookingtime": 150,
   "experience": 0.12,
-  "ingredient": "betterdrops:ender_carapace",
+  "ingredient": {
+    "item": "betterdrops:ender_carapace"
+  },
   "result": {
     "id": "betterdrops:ender_stew"
   }

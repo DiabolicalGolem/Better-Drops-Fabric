@@ -2,8 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "betterdrops:chevon",
-    "minecraft:bowl"
+    {
+      "item": "betterdrops:chevon"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
   ],
   "result": {
     "count": 1,

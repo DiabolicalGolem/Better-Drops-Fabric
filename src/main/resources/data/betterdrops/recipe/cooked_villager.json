@@ -3,7 +3,9 @@
   "category": "food",
   "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": "betterdrops:raw_villager",
+  "ingredient": {
+    "item": "betterdrops:raw_villager"
+  },
   "result": {
     "id": "betterdrops:cooked_villager"
   }

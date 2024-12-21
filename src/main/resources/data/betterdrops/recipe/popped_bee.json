@@ -3,7 +3,9 @@
   "category": "food",
   "cookingtime": 75,
   "experience": 0.1,
-  "ingredient": "betterdrops:raw_bee",
+  "ingredient": {
+    "item": "betterdrops:raw_bee"
+  },
   "result": {
     "id": "betterdrops:popped_bee"
   }

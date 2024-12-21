@@ -26,7 +26,7 @@ public class ModFoodComponents {
     public static final FoodComponent ENDER_CARAPACE = new FoodComponent.Builder().nutrition(1).saturationModifier(0.1f).build();
     public static final FoodComponent ENDER_STEW = new FoodComponent.Builder().nutrition(3).saturationModifier(0.6f).build();
     public static final FoodComponent FELINE_STEW = createStew(4).build();
-    public static final FoodComponent FOX_TAIL = new FoodComponent.Builder().nutrition(0).saturationModifier(0.1f).build();
+    public static final FoodComponent FOX_TAIL = new FoodComponent.Builder().nutrition(0).saturationModifier(0.1f).alwaysEdible().build();
     public static final FoodComponent FOX_TAIL_STEW = createStew(3).build();
     public static final FoodComponent FROG_LEGS = new FoodComponent.Builder().nutrition(1).saturationModifier(0.2f).build();
     // Incorporeal Meat
@@ -44,7 +44,7 @@ public class ModFoodComponents {
     public static final FoodComponent TADPOLE = new FoodComponent.Builder().nutrition(1).saturationModifier(0).alwaysEdible().build();
 
     public static final ConsumableComponent AXOLOTL_GILL_EFFECT = ConsumableComponents.food()
-            .consumeEffect(new ApplyEffectsConsumeEffect(new StatusEffectInstance(StatusEffects.WATER_BREATHING, 200, 0), 0.95f))
+            .consumeEffect(new ApplyEffectsConsumeEffect(new StatusEffectInstance(StatusEffects.WATER_BREATHING, 200, 0), 1.0f))
             .build();
     public static final ConsumableComponent BAT_WINGS_EFFECT = ConsumableComponents.food()
             .consumeEffect(new ApplyEffectsConsumeEffect(new StatusEffectInstance(StatusEffects.HUNGER, 600, 0), 0.7f))

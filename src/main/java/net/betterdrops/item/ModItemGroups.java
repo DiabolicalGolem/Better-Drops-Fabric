@@ -11,9 +11,9 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroups {
     public static final ItemGroup BETTER_DROPS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(BetterDrops.MOD_ID, "better_drop_items"),
+            Identifier.of(BetterDrops.MOD_ID, "betterdrops_items"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.ARMADILLO_STEW))
-                    .displayName(Text.translatable("itemgroup.betterdrops.better_drop_items"))
+                    .displayName(Text.translatable("itemgroup.betterdrops.betterdrops_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.JINGLE_MEAT);
                         entries.add(ModItems.COOKED_JINGLE_MEAT);

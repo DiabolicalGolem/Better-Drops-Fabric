@@ -1,4 +1,4 @@
-# ![pack.png](https://github.com/DiabolicalGolem/Better-Drops-Fabric/blob/main/pack.png) Better Drops \(Fabric\)
+# ![pack.png](https://github.com/DiabolicalGolem/Better-Drops-Fabric/blob/main/src/main/resources/pack.png) Better Drops \(Fabric\)
 
 *Adding drops to the dropless.*
 

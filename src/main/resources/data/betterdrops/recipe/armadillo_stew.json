@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "betterdrops:raw_armadillo"
-    },
-    {
-      "item": "minecraft:bowl"
-    }
+    "betterdrops:raw_armadillo",
+    "minecraft:bowl"
   ],
   "result": {
     "count": 1,

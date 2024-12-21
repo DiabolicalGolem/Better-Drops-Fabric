@@ -3,9 +3,7 @@
   "category": "food",
   "cookingtime": 200,
   "experience": 0.35,
-  "ingredient": {
-    "item": "betterdrops:sniffer_leg"
-  },
+  "ingredient": "betterdrops:sniffer_leg",
   "result": {
     "id": "betterdrops:cooked_sniffer_leg"
   }

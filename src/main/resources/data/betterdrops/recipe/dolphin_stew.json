@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item":"betterdrops:dolphin_fin"
-    },
-    {
-      "item": "minecraft:bowl"
-    }
+    "betterdrops:dolphin_fin",
+    "minecraft:bowl"
   ],
   "result": {
     "count": 1,

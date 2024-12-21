@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "betterdrops:jingle_meat"
-    },
-    {
-      "item": "minecraft:bowl"
-    }
+    "betterdrops:jingle_meat",
+    "minecraft:bowl"
   ],
   "result": {
     "count": 1,
